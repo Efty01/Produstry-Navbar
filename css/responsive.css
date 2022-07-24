@@ -1,0 +1,26 @@
+@media (min-width: 320px) and (max-width: 991px) {
+  /* header starts here */
+  header .addressText {
+    text-align: center;
+    padding: 10px 0;
+  }
+  header .welcomeText {
+    clip-path: none;
+  }
+  /* header ends here */
+
+  /* nav starts here */
+  #myCustomNavbar .btn_toggler {
+    display: none;
+  }
+  nav {
+    min-height: 100px;
+  }
+  nav #myCustomNavbar ul li{
+      text-align: center;
+  }
+  /* nav ends here */
+  }
+
+
+  
